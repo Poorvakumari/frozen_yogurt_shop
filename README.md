@@ -24,7 +24,7 @@ frozenyogurt/
 No additional setup is required.
 
 ## 📸 Preview
-![Frozen Yogurt](./frozenyogurt/images/yogurt.jpg)
+![Frozen Yogurt] https://poorvakumari.github.io/frozen_yogurt_shop/
  
 
 ## 📜 License
